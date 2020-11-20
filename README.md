@@ -7,3 +7,4 @@ Merupakan kelanjutan dari contoh sebelumnya di [Kucingpedia](https://github.com/
 ![Kucing & Anjing Pedia](catdogpedia.gif)
 
 
+# BinatangPedia
